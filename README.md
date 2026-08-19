@@ -104,7 +104,7 @@ I want to contribute to software that helps businesses, organizations, and commu
 
 - GitHub: [@Elie-Ilunga](https://github.com/Elie-Ilunga)
 - Location: Kinshasa, Democratic Republic of the Congo
-- Email: [eliekaboza2025@gmail.com](mailto:eliekabilunga@gmail.com)
+- Email: [eliekabilunga@gmail.com](mailto:eliekabilunga@gmail.com)
 
 ---
 
